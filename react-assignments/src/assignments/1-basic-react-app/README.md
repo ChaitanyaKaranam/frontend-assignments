@@ -1,4 +1,9 @@
-# Working with JSON
+---
+title: Basic React App
+tags: api, hooks, state, components
+---
+
+# Basic React App
 
 -   Fetch list of users from `https://jsonplaceholder.typicode.com/users`.
 -   Create `User` component that shows - Name, Username, Email, Website and Company address.
